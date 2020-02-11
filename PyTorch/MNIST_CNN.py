@@ -39,7 +39,7 @@ train_gen = DataLoader(
 # test data
 test_batch_size = 32
 test_data = {
-    'x': test_set.test_data[:test_batch_size].view((test_batch_size, 1, 28, 28)).type(torch.float32),
+    'x': test_set.test_data[:test_batch_size].view((test_batch_size, 1, 28, 28)).type(torch.float32) / 255.,
     'y': test_set.test_labels[:test_batch_size]
 }
 
