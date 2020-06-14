@@ -7,6 +7,6 @@ I will submit my works to here~!
 uh...maybe???
 
 
-Machine Learning：
+Machine Learning：  
 https://hackmd.io/@bOpWsieSQc-KDi2-JO42JQ/rJdwIRj4L  
 https://hackmd.io/@bOpWsieSQc-KDi2-JO42JQ/SkJLu13N8
